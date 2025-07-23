@@ -14,7 +14,7 @@ Observação: A tecnologia escolhida no TodoMVC foi o React, mas isso não influ
 
 Curso Teste de Software Manual: Do Planejamento à Execução, realizado através da plataforma Udemy e ministrado pela Qualiters Club.
 
-Tarefas:
+**Tarefas:**
 1. Identificar todos os épicos das atividades da página https://todomvc.com/examples/react/dist/;
 2. Em cada épico inserir evidência através de print, nome da funcionalidade, user history (história do usuário), regras de negócio e critérios de aceite;
 3. Criação da tabela macros, onde se localiza toda as configurações das tabelas de plano de teste;
@@ -79,10 +79,10 @@ Quando um bug é detectado, além das atualizações mencionadas anteriormente, 
 
 **Acessar arquivos e evidências:**
 
-UpstreamTodoMVC.pdf
+[Upstream](https://github.com/oalessandrolima/TestesManuais_TodoMVC/blob/main/UpstreamTodoMVC.pdf)
 
-PlanoDeTesteTodoMVC.xlsx
+[Plano de Teste](https://github.com/oalessandrolima/TestesManuais_TodoMVC/blob/main/PlanoDeTesteTodoMVC.xlsx)
 
-ControleDeBugsTodoMVC.xlsx
+[Controle de Bugs](https://github.com/oalessandrolima/TestesManuais_TodoMVC/blob/main/ControleDeBugsTodoMVC.xlsx)
 
 [Evidências das execuções](https://drive.google.com/drive/folders/1EkgYeGSFQ_RCohQhzrmVFsF0g3hRY9Dk?usp=sharing)
